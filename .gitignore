@@ -4,3 +4,4 @@
 .dvc/cache
 /models
 .env
+*.pyc
